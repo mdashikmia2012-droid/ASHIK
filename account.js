@@ -1,7 +1,7 @@
 // =======================================================
-// WEBSITE NAME (NICKNAME)
+// WEBSITE NAME (ASHIK TOP UP)
 // =======================================================
-var website_name = "YASIN";
+var website_name = "ASHIK";
 
 // =======================================================
 // TELEGRAM CHANNEL LINK
